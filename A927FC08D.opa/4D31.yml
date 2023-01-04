@@ -1,0 +1,47 @@
+segment_sources:
+  I02564FE3:
+    type: origin_type
+    relation: translation
+    base: 51EA
+    lang: en
+  ICC5D4964:
+    type: origin_type
+    relation: translation
+    base: E7DC
+    lang: es
+  I02CDA9C2:
+    type: origin_type
+    relation: translation
+    base: A5CC
+    lang: pt
+  IC2C7CE74:
+    type: origin_type
+    relation: translation
+    base: BF4A
+    lang: bo
+segment_pairs:
+  ed7161646ac04260835a144cc5423d91:
+    I02564FE3: 5dd4751891254edfa6ecccf92ca1d3ad
+    ICC5D4964: 303f856b8ab341b9801de6c0e4c4254c
+    I02CDA9C2: ebaf99c0340743ef805683c2fd1714f7
+    IC2C7CE74: dc55537dac12427f97196f207ce24c0c
+  f11f702575974be0a70ec426ba210e57:
+    I02564FE3: 4200b3e40d844735a724df8e37f2faaa
+    ICC5D4964: 8c3b7f5421ad4f7dba1096e5627aac51
+    I02CDA9C2: ae427bc6f2494ccabca4e453cc6d7226
+    IC2C7CE74: db2bf2b098414759a4e1685c26087f33
+  82d2952b130f4cf0b5519d67fb0e0b6a:
+    I02564FE3: 42cd99b6ddb248e4908ac409bf5d7f62
+    ICC5D4964: 6fda1ec61ed14463a60c063afbba2a1c
+    I02CDA9C2: 1fda825a6b5249b4b1ab9b4596464896
+    IC2C7CE74: 1707d80d50ae4613b2a344a911c281e8
+  31cce8e0019a4d57a59b89764cd821b6:
+    I02564FE3: 33d0c614092a4cbbaecadf74f83432cb
+    ICC5D4964: e050c54dea9e41d1b754aeb88d99ef29
+    I02CDA9C2: cbd8e979af29422ca71b138a4d63c46a
+    IC2C7CE74: 8d5fa6dcd07e477d886b6df5193cee93
+  8e6768c4d8de460fb06bd9f182530f67:
+    I02564FE3: b76c8504550d4f07a882053b424324b3
+    ICC5D4964: e5b2f668a7e448c9859cd0f4d21fd119
+    I02CDA9C2: 2b1a360edc404491ab370ca1e16eea9f
+    IC2C7CE74: 93fc59b4e4eb49e29d2f782e8411df0d

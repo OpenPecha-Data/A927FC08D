@@ -1,0 +1,25 @@
+id: A927FC08D
+title: Heart Advice in Four Lines
+type: translation
+pechas:
+- I02564FE3
+- ICC5D4964
+- I02CDA9C2
+- IC2C7CE74
+source_metadata:
+  languages:
+  - en
+  - es
+  - pt
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 11:35:11.421883
+  last_modified_at: 2023-01-04 11:35:11.421887
+  collections:
+  - Dilgo Khyentse Rinpoche Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I02564FE3/51EA: 4D31
+  ICC5D4964/E7DC: 4D31
+  I02CDA9C2/A5CC: 4D31
+  IC2C7CE74/BF4A: 4D31
